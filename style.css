@@ -1,0 +1,65 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    color: #161E2E;
+}
+
+a {
+    text-decoration: none;
+    color: #161E2E;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+}
+
+a:hover{
+    color: #3C8999;
+}
+
+.active{
+    color: #3C8999;
+}
+
+.container {
+    margin-top: 73px;
+}
+
+input[type="file"]{
+    display: none;
+}
+
+label{
+    background-color: #F4F5F7;
+    outline: #D2D6DC 2px dashed;
+}
+
+h2{
+   font-weight: 700; 
+   font-size: 1.5rem;
+   line-height: 2rem;
+   margin-bottom: 16px;
+   color: #161E2E;
+}
+
+.table-icon{
+    color: #8DE0F1;
+    margin-right: 8px;
+}
+
+.icon-button{
+    cursor: pointer;
+    margin-left: 16px;
+    float: right;
+}
+
+.icon-button:hover{
+    color: #3C8999;
+}
+
+.card:hover{
+    border: 1px solid #3C8999;
+}
+
+.text-dark{
+    color: #161E2E !important;
+}
