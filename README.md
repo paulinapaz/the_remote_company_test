@@ -1,4 +1,6 @@
 # The Remote Company Test
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpaulinapaz%2Fthe_remote_company_test.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpaulinapaz%2Fthe_remote_company_test?ref=badge_shield)
+
 This is a test assignment for the product designer role for the remote company
 ## Figma Prototype Link
 https://www.figma.com/proto/lFjVt8gDvT4MyK6WOWTmZZ/Resource-Management-App?page-id=0%3A1&node-id=7%3A9397&viewport=-13672%2C2461%2C0.59&scaling=scale-down&starting-point-node-id=7%3A9397
@@ -33,3 +35,7 @@ The user is able to click on each file to view the preview. The preview screen c
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpaulinapaz%2Fthe_remote_company_test.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpaulinapaz%2Fthe_remote_company_test?ref=badge_large)
